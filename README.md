@@ -1,9 +1,7 @@
 # ProjectThree-CSC-210
 They are interested in rearranging their produce section and need to know how often items are purchased so they can create the most effective layout for their customers. 
 
-This project was to input information from the .txt file into the main.cpp file. With this information, we had to output the frequency of each product into the .dat file. From there, I have to output a specific outcome based on the user's input. 
-
-The problem this project solved was allowing the user to access the number of products in the .txt file quickly and efficiently.
+This project was to input information from the .txt file into the main.cpp file. With this information, we had to output the frequency of each product into the .dat file. From there, I have to output a specific outcome based on the user's input. The problem this project solved was allowing the user to access the number of products in the .txt file quickly and efficiently.
 
 I did well in the aspect of creating a map to organize all of the information from the .txt file.
 
