@@ -12,6 +12,6 @@ They are interested in rearranging their produce section and need to know how of
   The most challenging piece of code I had to write was the for loop for the map. To figure out this hump, I had to use stack overflow to find ways to loop through a map. This part took many hours of searching and testing to see what could work. :)
 5. 
    The skill of creating a map and looping through a .txt file are the skills I am taking away from this project. The ease of creating a map is amazing; the amount of time I could have used a map in the part is also amazing high. In addition, looping through a .txt file and gathering information will be extremely
-   helpful as I work on bigger projects.
+   helpful as I work on bigger projects.\n
 6. 
    I made this program readable by adding an extreme amount of comments. I spent my time explaining almost every step as I created each line. I feel this will allow anyone who sees this project to understand every line of code created. 
